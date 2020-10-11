@@ -681,6 +681,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Online Compiler and Sharing Code snippets
+- [Onlinegdb](https://www.onlinegdb.com/online_c++_compiler) : Excellent tool for coding in various languages with latest versions.
 - [CodePad](https://codepad.remoteinterview.io) : Code editor to try, test and run 25+ languages
 - [Codesandbox.io](https://codesandbox.io) : CodeSandbox makes it easier to create, share, and reuse React projects with others.
 - [Godbolt.org](https://godbolt.org) : Excellent tool for exploring the assembly output of different compilers with and without optimization.
@@ -775,6 +776,8 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Open Source Websites
+- [MLH Fellowship](https://fellowship.mlh.io/)An internship alternative for software engineers, by Major League Hacking and powered by GitHub - MLH Fellowship.
+- [Fossasia](https://fossasia.org/) : Developing Open Source Software and Open Hardware to improve people's lives. Solutions for Event Management, Artificial Intelligence.
 - [Open Hatch](https://openhatch.org) : OpenHatch is a non-profit dedicated to matching prospective free software contributors with communities, tools, and education.
 - [Source Forge](https://sourceforge.net) : SourceForge hosts nearly 280,000 projects (at last count). It serves more than 2 million downloads a day and includes apps and tools in a wide variety of categories.
 - [Google Code](https://code.google.com/projecthosting) : Google offers free hosting for open source projects using the Subversion or Mercurial version control systems. It offers 2 GB of storage, integrated code review tools, a wiki, and an issue tracker. The Google Code site also provides links to Google's many publicly available APIs and other developer tools.
